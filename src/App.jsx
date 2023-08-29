@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 import Ranquote from './components/Ranquote'
-import Suerbtnquote from './components/Suerbtnquote';
+import Suerbtnquote from './components/SuerbtnQuote';    
 import getRandomElemArray from './utils/getRandomElemArray';
 import phrases from './utils/phrases.json';
 import './index.css';
